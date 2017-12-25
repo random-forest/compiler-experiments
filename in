@@ -1,0 +1,10 @@
+foo = 100;
+foo1 = 9.1;
+
+foobar = foo + foo1 / 2;
+
+define abc [x y] ->
+    z = 2
+    zzzz = 222
+    return x * y / z
+;
