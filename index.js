@@ -196,6 +196,5 @@ function walk(curr, next) {
             return curr;
         }
     }
-
 }
 
